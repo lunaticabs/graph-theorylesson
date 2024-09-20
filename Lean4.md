@@ -28,7 +28,7 @@ Lean4的类型系统实际上远比DT要更为复杂，包含了归纳类型（i
 
 [本次展示用到的代码](https://github.com/lunaticabs/graph-theorylesson)
 
-[计算机同好会编程语言理论组编写的形式化科学和类型论入门指南](https://theory.know-cnu.wiki/tt.html)
+[计算机协会编程语言理论组编写的形式化科学和类型论入门指南](https://theory.know-cnu.wiki/tt.html)
 
 《Type Theory and Formal Proof : An Introduction》类型论入门书籍
 
