@@ -26,9 +26,15 @@ Lean4的类型系统实际上远比DT要更为复杂，包含了归纳类型（i
 
 [Lean中的类型论](https://github.com/digama0/lean-type-theory/releases/tag/v1.0)
 
+[propositions-as-types paper](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
+
+[propositions-as-types lecture video](https://www.youtube.com/watch?v=IOiZatlZtGU&ab_channel=StrangeLoopConference)
+
 [本次展示用到的代码](https://github.com/lunaticabs/graph-theorylesson)
 
 [计算机协会编程语言理论组编写的形式化科学和类型论入门指南](https://theory.know-cnu.wiki/tt.html)
 
 《Type Theory and Formal Proof : An Introduction》类型论入门书籍
+
+《作为哲学的数理逻辑》杨睿之著 复旦大学出版社 以及该系列内的其他书籍。推荐给对可计算性，证明论等数理逻辑相关知识感兴趣的同学。
 
